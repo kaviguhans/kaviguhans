@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kavi Guhan 👋
 
-<!--
-**kaviguhans/kaviguhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+- 🔭 Currently learning DevOps & Cloud Technologies
+- 🐧 Exploring Linux, Java & Automation
+- 🛠️ Working with Git, GitHub & Docker & AWS
+- 🌱 Learning CI/CD and Kubernetes
+- 📫 How to reach me: https://www.linkedin.com/in/kavi-guhan-s-68b9ba248/ 
+     (LinkedIn / Email)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** Java | Linux | Git | Docker | AWS | CI/CD
+
+📫 Let's connect and build something great!
